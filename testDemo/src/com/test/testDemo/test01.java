@@ -16,12 +16,11 @@ public class test01 {
     
     private ApplicationContext ctx = null;
     
-    @Before
+    
     public void doBefore(){
         ctx = new ClassPathXmlApplicationContext("classpath:spring.xml");
     }
-    
-    @Test
+
     public void test() {
     	try {
     		 testDemoService ssmDemoService = ctx.getBean(testDemoService.class);  

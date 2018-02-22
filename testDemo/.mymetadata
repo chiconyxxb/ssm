@@ -3,7 +3,7 @@
   type="WEB"
   name="testDemo"
   id="myeclipse.1517904799275"
-  context-root="/testDemo"
+  context-root="/"
   j2ee-spec="6.0"
   archive="testDemo.war">
   <attributes>
