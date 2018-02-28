@@ -37,7 +37,7 @@ table tbody td{
 
 <body>
     <br />
-    <h1 style="text-align: center;width:100%;">SSM_DEMO By Advance</h1>
+    <h1 style="text-align: center;width:100%;">SSM_DEMO By CHICONY</h1>
     <br />
     <br />
     <hr />
